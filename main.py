@@ -1,7 +1,5 @@
 #Projeto da calculadora
 
-import gc
-
 print("==============================================CALCULADORA=============================================")
 
 def calculando():
